@@ -6,6 +6,8 @@
     "start": "next start"
   },
   "dependencies": {
+    "@cbsinteractive/avia-js": "^2.6.3",
+    "@cbsinteractive/avia-js-react": "^2.6.3",
     "date-fns": "^2.29.2",
     "gray-matter": "^4.0.3",
     "next": "latest",
